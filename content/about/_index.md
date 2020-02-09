@@ -1,6 +1,6 @@
 ---
 date: "2014-04-09"
-title: About Hugo
+title: 사랑해요 휴고 & GitHub & blogdown
 ---
 
 Hugo is a static site engine written in Go.
